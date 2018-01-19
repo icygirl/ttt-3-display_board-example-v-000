@@ -5,8 +5,10 @@ def display_board
   seperator = "-----------"
   print cell, pipe, cell, pipe
   puts seperator
+  puts
   print cell, pipe, cell, pipe
   puts seperator
+  puts
   print cell, pipe, cell, pipe
 end
 
