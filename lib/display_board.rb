@@ -9,3 +9,5 @@ def display_board
   puts seperator
   print row,row
 end
+
+display_board
