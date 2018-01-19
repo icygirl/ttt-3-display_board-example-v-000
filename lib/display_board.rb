@@ -10,6 +10,7 @@ def display_board
   puts
   puts seperator
   print cell, pipe, cell, pipe, cell
+  puts
 end
 
 display_board
