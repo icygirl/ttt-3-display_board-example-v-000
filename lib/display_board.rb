@@ -4,11 +4,11 @@ def display_board
   pipe = "|"
   seperator = "-----------"
   print cell, pipe, cell, pipe
-  puts seperator
   puts
+  puts seperator
   print cell, pipe, cell, pipe
-  puts seperator
   puts
+  puts seperator
   print cell, pipe, cell, pipe
 end
 
